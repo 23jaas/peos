@@ -7,6 +7,10 @@
 > **Core Philosophy:** You are not rebuilding a body. You are rebuilding a movement system.
 > The goal is not exhaustion — it is controlled, progressive neuromuscular adaptation.
 > Quality of movement always outranks quantity of work.
+>
+> **Programme Identity:** This is **athletic reconditioning** — not rehabilitation, not punishment, not an aesthetic project.
+> The body is adaptable. You are capable. The objective is movement confidence, structural integrity, and long-term athleticism.
+> You are not managing a broken body. You are deliberately building an athletic one.
 
 ---
 
@@ -44,6 +48,8 @@ Single-joint and multi-joint positions cannot be held with control. The stabiliz
 ### Assessment Conclusion
 
 You have a decent muscular foundation (structural mass is present) but the nervous system has not been trained to recruit and coordinate that muscle effectively. The training system below prioritizes **neuromuscular re-education** — teaching your muscles to work together, in sequence, and under control — before adding significant intensity or volume.
+
+> **Important framing:** The issues identified above are movement patterns — not damage, not fragility. The body responds and adapts rapidly to quality training. This programme corrects patterns through movement, not through excessive caution. Approach every session with the mindset of an athlete learning, not a patient recovering.
 
 ---
 
@@ -586,6 +592,24 @@ NO  → Stay at current level for another week and identify what is breaking dow
 
 ---
 
+### The Movement Ownership Standard
+
+Every exercise has two possible relationships:
+
+**"Can I survive this exercise?"** — not the standard.
+**"Can I own this position?"** — this is the standard.
+
+Owning a movement means:
+- Breathing is steady throughout
+- You could pause mid-rep and hold the position
+- You know where your pelvis, spine, and scapulae are without looking
+- You have 2–3 quality reps in reserve at the end of the final set
+- The movement feels controlled, not desperate
+
+If you are surviving but not owning — you are not ready to progress. The question to ask after every set is: **"Did I control that, or did I just get through it?"**
+
+---
+
 ### Exercise-Specific Progressions
 
 #### Pushing Progression
@@ -662,6 +686,33 @@ Inverted Row (high table — easy angle)
 - [ ] Can perform 10 single leg glute bridges per side without pelvic drop
 - [ ] Can hold hollow body for 20 sec with lower back connected to floor
 - [ ] Completing 10+ reps of inverted row with full scapular retraction
+- [ ] Movement Confidence self-rating: 6/10 or above (see Section 7B)
+
+#### Phase 3 → Phase 4 Checklist
+- [ ] Can perform tempo push-up (3–1–3) × 10 with no form breakdown
+- [ ] Can hold hollow body for 30 sec with lower back connected throughout
+- [ ] Can perform Bulgarian split squat × 10 per side with controlled descent
+- [ ] Can hold L-sit tuck on floor for 10 sec
+- [ ] Single-leg balance (eyes open) × 20 sec per side without compensation
+- [ ] Movement Confidence self-rating: 7/10 or above
+
+#### Phase 4 → Phase 5 Checklist
+- [ ] Full conditioning circuits (4+ rounds) completed with movement quality sustained throughout
+- [ ] 20 consecutive full push-ups with control
+- [ ] Bulgarian split squat × 15 per side with zero pelvic drop
+- [ ] Hollow body rock × 10 clean reps
+- [ ] Soft landing mechanics mastered (can drop from a small height and absorb silently)
+- [ ] Movement Confidence self-rating: 8/10 or above
+
+---
+
+### Foundation-First: Why Advanced Work Must Be Earned
+
+Advanced movements — compression work, explosive plyometrics, complex calisthenics, high-skill patterns — are not shortcuts to athletic development. They are **outcomes** of it.
+
+Attempting them before the prerequisites are built creates compensated movement patterns that become hardwired, joint stress without adequate structural support, and a ceiling on long-term progress.
+
+The logic is simple: explosive push-ups require a push-up. A push-up requires scapular control. Scapular control requires core stability. Start there. Every phase unlocks the one above it — not through time, but through demonstrated competency.
 
 ---
 
@@ -730,6 +781,36 @@ On recovery days, use a foam roller or lacrosse ball (or a tennis ball) on:
 
 ---
 
+### Daily Recovery Readiness Tracker
+
+Before each training session, spend 30 seconds rating yourself on these five markers. Honest gut-level scores only — no analysis required.
+
+```
+RECOVERY READINESS — [DATE]
+
+1. Sleep Quality          /10   (How well did you sleep?)
+2. Energy Level           /10   (How energized do you feel right now?)
+3. Motivation To Train    /10   (Do you genuinely want to train?)
+4. Muscle Soreness        /10   (10 = no soreness, 1 = very sore)
+5. Willingness To Push    /10   (How ready are you to work with real effort?)
+
+TOTAL                     /50
+```
+
+| Total Score | Meaning | Action |
+|---|---|---|
+| 40–50 | High readiness | Train as planned at full intensity |
+| 30–39 | Moderate readiness | Train as planned — reduce load if form suffers |
+| 20–29 | Low readiness | Reduce volume 30%, prioritize quality over intensity |
+| Below 20 | Recovery deficit | Mobility session only or full rest day |
+
+**What patterns to look for over time:**
+- Scores consistently below 30 for 5+ days → recovery is not matching training load. Assess sleep, food, and stress first.
+- Scores high for 3–4 consecutive days → momentum window. Use it by prioritizing quality.
+- Motivation drops sharply after a high-score streak → early overreaching signal. Reduce volume proactively.
+
+---
+
 ## SECTION 7 — PROGRESSION MILESTONES
 
 ### Milestone 1: Postural Baseline (End of Week 2)
@@ -778,6 +859,122 @@ On recovery days, use a foam roller or lacrosse ball (or a tennis ball) on:
 - Demonstrated: Bulgarian split squat × 12 per side with control.
 - Demonstrated: Hollow body rock × 10 clean reps.
 - Demonstrated: Conditioning circuits completed without quality breakdown.
+
+---
+
+## SECTION 7B — FOUNDATIONAL MOVEMENT COMPETENCY TESTS
+
+### Purpose
+
+Run these tests every **2–4 weeks** to track movement quality, stabilization competency, and posture automation. These are not performance benchmarks. They are not ego measures. They answer one question: **are you owning your movement, or just surviving it?**
+
+A test is passed when the movement is controlled, stable, and repeatable — not when it is maximum effort.
+
+---
+
+#### TEST 1 — PLANK QUALITY
+**Run:** Every 2 weeks
+**Test:** Forearm plank hold for 30 seconds.
+**Pass:** Neutral pelvis throughout (no sag, no pike). Shoulders packed. Steady breathing. Zero visible shaking in the first 20 seconds.
+**Tracks:** Core endurance, scapular stability, breath under tension.
+
+---
+
+#### TEST 2 — SIDE PLANK ENDURANCE
+**Run:** Every 2 weeks
+**Test:** Full side plank (feet stacked) × 20 sec per side.
+**Pass:** Hip does not drop or rotate. Body forms a straight line. Breathing controlled throughout.
+**Tracks:** Lateral core, pelvic stability, hip abductor endurance.
+
+---
+
+#### TEST 3 — DEEP SQUAT HOLD
+**Run:** Every 4 weeks
+**Test:** Descend to full depth squat and hold for 10 seconds.
+**Pass:** Feet flat. Spine neutral. Knees tracking over toes. The hold is comfortable — not a fight.
+**Tracks:** Hip and ankle mobility, pelvic control at end range.
+
+---
+
+#### TEST 4 — HIP HINGE CONTROL
+**Run:** Every 4 weeks
+**Test:** 5 slow, controlled single-leg RDLs per side (supported or freestanding depending on your phase).
+**Pass:** Spine stays flat. Pelvis does not rotate. Movement originates from the hip, not the lower back. Hips remain level.
+**Tracks:** Hamstring length, hip hinge pattern, pelvic stability in a dynamic task.
+
+---
+
+#### TEST 5 — PUSH-UP QUALITY
+**Run:** Every 2 weeks
+**Test:** 5 push-ups at your current level (incline or full).
+**Pass:** Body rigid throughout. Elbows at 30–45°. Full range of motion. Scapulae move correctly. No neck jutting.
+**Tracks:** Pushing pattern integrity, scapular control, core tension under upper body load.
+
+---
+
+#### TEST 6 — SINGLE-LEG BALANCE
+**Run:** Every 4 weeks
+**Test:** Stand on one leg, eyes open, × 20 seconds each side.
+**Pass:** Minimal sway. No need to touch down. Hip stays level. Ankle stable.
+**Tracks:** Proprioception, hip stabilizer endurance, ankle stability.
+**Phase 3+ progression:** Eyes closed × 10 sec per side.
+
+---
+
+#### TEST 7 — SHOULDER OVERHEAD MOBILITY
+**Run:** Every 4 weeks
+**Test:** Stand back against a wall. Raise arms overhead and try to touch the back of your hands to the wall — without the lower back peeling away or ribs flaring.
+**Pass:** Hands reach or approach the wall. Lumbar maintains wall contact. No shrugging.
+**Tracks:** Shoulder flexion, thoracic extension, scapular upward rotation — the anatomy of posture correction.
+
+---
+
+#### TEST 8 — TRANSITION FLUIDITY
+**Run:** Every 4 weeks
+**Test:** Move from standing → quadruped → supine → standing. Perform twice, slowly.
+**Pass:** Every transition is controlled. No crashing or balance loss. Posture is maintained at each position.
+**Tracks:** Body awareness, ground-based coordination, proprioception.
+
+---
+
+#### TEST 9 — MOVEMENT CONFIDENCE SELF-RATING
+**Run:** Every 2 weeks
+**Test:** Rate 1–10:
+- How confident do you feel executing the exercises in your current phase?
+- How in-control do you feel during movement (vs. just surviving)?
+- Is your body responding predictably to what you ask it to do?
+
+**Pass:** All scores 6/10 or above to advance phases.
+**Tracks:** Embodiment, athletic self-perception, neuromuscular confidence.
+
+---
+
+#### TEST 10 — BRACING ENDURANCE
+**Run:** Every 2 weeks
+**Test:** Perform dead bugs continuously for 60 seconds (alternating sides) without the lower back losing contact with the floor.
+**Pass:** Lower back contact maintained throughout. Breathing controlled. No rushing.
+**Tracks:** Deep core endurance under continuous load, breath control, lumbar stability.
+
+---
+
+### Test Log Template
+
+```
+DATE: ___________   WEEK: ___________
+
+Plank Quality            PASS / FAIL   Notes: _______
+Side Plank Endurance     PASS / FAIL   Notes: _______
+Deep Squat Hold          PASS / FAIL   Notes: _______
+Hip Hinge Control        PASS / FAIL   Notes: _______
+Push-Up Quality          PASS / FAIL   Notes: _______
+Single-Leg Balance       PASS / FAIL   Notes: _______
+Overhead Mobility        PASS / FAIL   Notes: _______
+Transition Fluidity      PASS / FAIL   Notes: _______
+Movement Confidence      SCORE: /10
+Bracing Endurance        PASS / FAIL   Notes: _______
+
+Overall: Am I owning my movement, or surviving it?
+```
 
 ---
 
@@ -874,6 +1071,23 @@ Understanding compensations is critical. A compensation is when one part of the 
 
 ---
 
+### Realistic Timeline: What to Expect and When
+
+Progress is not linear and transformation is not fast. These windows are honest — not optimistic projections.
+
+| Timeframe | What You Will Actually Notice |
+|---|---|
+| Weeks 1–2 | Exercises feel less foreign. Energy improves slightly. Sleep quality often improves. Body awareness increases. |
+| Weeks 3–4 | Basic patterns feel more accessible. Posture correction takes less effort. Core activation becomes more consistent. |
+| Weeks 4–8 | Posture endurance improves noticeably. Conditioning improves. Sessions feel sustainable. Body starts feeling more integrated. |
+| Weeks 8–12 | Visible and felt recomposition begins. Movement confidence increases significantly. Daily posture improves without conscious effort. |
+| Months 4–6 | Significant structural and athletic changes. Movements that were difficult become automatic. Athletic identity begins to solidify. |
+| Months 6–12 | Major shift in how the body feels and functions. Movement is a tool, not a task. Long-term athletic identity established. |
+
+**Critical note for the first 6–8 weeks:** Early adaptation is primarily neurological. The nervous system is learning motor patterns. Do not judge progress by visible change during this window — the most important adaptations are happening beneath the surface. This is where consistency pays its highest dividend.
+
+---
+
 ### Year 1 Goals (Realistic Targets)
 
 By the end of 12 months of consistent training:
@@ -949,6 +1163,8 @@ This is not something you think your way into. It is built through thousands of 
 - Bear crawl and locomotion patterns
 - Sprint mechanics (if space available)
 
+**Mindset:** You have built the foundation. Now you are stress-testing it under increasing challenge. The goal is still movement quality — but now you are proving that quality holds under harder conditions. Harder is not better unless it is controlled.
+
 ---
 
 ### TIER 3: ADVANCED FOUNDATION (Phases 5+, Weeks 17–26)
@@ -966,6 +1182,8 @@ This is not something you think your way into. It is built through thousands of 
 - Interval conditioning
 - Sprint and jump work
 - Athletic movement expression
+
+**Mindset:** You are no longer a returning trainee. You are an athlete in development. Complexity and power are appropriate here — because they have been earned. The standards from Tiers 1 and 2 still apply. Speed and power do not override movement quality; they are built on top of it.
 
 ---
 
@@ -1051,5 +1269,5 @@ All video references below are search terms for YouTube. Use these exact phrases
 
 ---
 
-*Programme version 1.0 — Built for athletic reconditioning from the ground up.*
-*Review and adjust at each 4-week checkpoint based on progression milestones.*
+*Programme version 2.0 — Built for athletic reconditioning from the ground up.*
+*Review and adjust at each 4-week checkpoint based on progression milestones and Section 7B competency tests.*
