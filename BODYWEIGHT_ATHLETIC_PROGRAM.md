@@ -123,211 +123,310 @@ The system has **5 phases**, each lasting approximately 4 weeks. You do NOT adva
 
 #### DAY 1 — Lower Foundation + Posterior Chain + Core
 
-**Warmup (10 min):**
-1. Diaphragmatic Breathing — 3 min (lying down, focus on belly rise)
-2. Cat-Cow — 10 reps slow
-3. 90/90 Hip Switches — 10 reps per side
-4. Glute Bridge ISO Hold — 3 × 20 sec
-5. Dead Bug Activation — 5 reps per side
+> No equipment needed. Floor space only.
 
-**Main Work:**
+**WARMUP — 10 min**
 
-| # | Exercise | Sets | Reps/Time | Rest |
-|---|---|---|---|---|
-| 1 | Glute Bridge (Bilateral) | 3 | 15 reps | 60 sec |
-| 2 | Bodyweight Squat (Goblet cue) | 3 | 10 reps | 60 sec |
-| 3 | Reverse Lunge (Bodyweight) | 3 | 8 per side | 60 sec |
-| 4 | Romanian Deadlift (Single Leg, hands on wall) | 3 | 8 per side | 60 sec |
-| 5 | Side-Lying Clamshell | 3 | 15 per side | 45 sec |
-| 6 | Dead Bug | 3 | 6 per side | 60 sec |
-| 7 | Plank (Forearm) | 3 | 20–30 sec | 60 sec |
+**1. Diaphragmatic Breathing — 3 min**
+Lie on your back, knees bent. Belly rises on the inhale, chest stays still.
+[Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4) · [Beginners Physio Guide](https://www.youtube.com/watch?v=9jpchJcKivk)
 
-**Cooldown (5 min):**
-- Supine Figure-4 stretch × 60 sec per side
-- Child's Pose × 60 sec
-- Diaphragmatic breathing × 2 min
+**2. Cat-Cow — 10 reps slow**
+On hands and knees. Inhale — arch (cow). Exhale — round (cat). One vertebra at a time.
+[Proper Form Tutorial for Spinal Mobility](https://www.youtube.com/watch?v=xyNwxiuERXc)
+
+**3. 90/90 Hip Switches — 10 reps per side**
+Sit on the floor, both knees at 90°. Rotate hips to switch sides. Tall spine throughout.
+[Step-by-Step Tutorial](https://www.youtube.com/watch?v=HUZimFZJZWU) · [IR/ER Rotation Drill](https://www.youtube.com/watch?v=wnFTIPhNySI)
+
+**4. Glute Bridge ISO Hold — 3 × 20 sec**
+Bodyweight only. Lie on your back, feet flat, drive hips up through your heels. Squeeze glutes at the top — do NOT arch the lower back.
+[How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo) · [The Correct Way](https://www.youtube.com/watch?v=Q_Bpj91Yiis)
+
+**5. Dead Bug Activation — 5 reps per side**
+On your back. Press lower back INTO the floor and hold it there. Slowly lower one arm and opposite leg. Lower back must not lift.
+[NASM Proper Form](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w)
 
 ---
 
-**VIDEO REFERENCES — Day 1**
+**MAIN WORK**
 
-| Exercise | Watch |
-|---|---|
-| Diaphragmatic Breathing | [Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4) · [Beginners Physio Guide](https://www.youtube.com/watch?v=9jpchJcKivk) |
-| Cat-Cow | [Proper Form Tutorial for Spinal Mobility](https://www.youtube.com/watch?v=xyNwxiuERXc) |
-| 90/90 Hip Switches | [Step-by-Step Tutorial](https://www.youtube.com/watch?v=HUZimFZJZWU) · [IR/ER Rotation Drill](https://www.youtube.com/watch?v=wnFTIPhNySI) |
-| Glute Bridge | [How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo) · [The Correct Way](https://www.youtube.com/watch?v=Q_Bpj91Yiis) |
-| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
-| Bodyweight Squat | [Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8) |
-| Reverse Lunge | [The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [How to Perform the Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY) |
-| Single Leg RDL | [Best Single-Leg RDL Tutorial](https://www.youtube.com/watch?v=Zfr6wizR8rs) · [Bodyweight Version](https://www.youtube.com/watch?v=gz9l8UA_KXs) |
-| Clamshell | [Side Lying Hip Abduction](https://www.youtube.com/watch?v=46l1bE9LlqM) · [Fix Your Clamshell Form](https://www.youtube.com/shorts/qJhOH9-2yDw) |
-| Forearm Plank | [Forearm Plank Tutorial](https://www.youtube.com/watch?v=BjGVnfGk6j8) · [How to Do Planks Correctly](https://www.youtube.com/watch?v=6pyUmE_ho-g) |
-| Supine Figure-4 Stretch | [Ask Doctor Jo](https://www.youtube.com/watch?v=-g0nuyTHMrI) · [Supine Piriformis Stretch](https://www.youtube.com/watch?v=xVq2-g_leTI) |
-| Child's Pose | [Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Proper Form](https://www.youtube.com/watch?v=_ZX_zTOBgp8) |
+**1. Glute Bridge — 3 sets × 15 reps | Rest 60 sec**
+Bodyweight only — no equipment. Lie on back, feet flat hip-width apart, drive through heels, squeeze glutes at top. No lower back hyperextension at the top.
+[How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo) · [The Correct Way](https://www.youtube.com/watch?v=Q_Bpj91Yiis)
+
+**2. Bodyweight Squat — 3 sets × 10 reps | Rest 60 sec**
+Feet hip-width, toes slightly out. Sit back and down. Chest proud, knees track over toes.
+[Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8)
+
+**3. Reverse Lunge — 3 sets × 8 per side | Rest 60 sec**
+Step back, lower rear knee toward the floor. Front shin stays close to vertical. Torso stays upright.
+[The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY)
+
+**4. Single Leg RDL (one hand lightly on wall for balance) — 3 sets × 8 per side | Rest 60 sec**
+No equipment — wall for light balance support only. Push hips back, back stays flat, hips stay level. This is a hip hinge — not a forward bend.
+[Best Single-Leg RDL Tutorial](https://www.youtube.com/watch?v=Zfr6wizR8rs) · [Bodyweight Version](https://www.youtube.com/watch?v=gz9l8UA_KXs)
+
+**5. Side-Lying Clamshell — 3 sets × 15 per side | Rest 45 sec**
+Lie on your side, hips stacked, knees bent. Rotate the top knee upward — pelvis must NOT roll back.
+[Side Lying Hip Abduction](https://www.youtube.com/watch?v=46l1bE9LlqM) · [Fix Your Form](https://www.youtube.com/shorts/qJhOH9-2yDw)
+
+**6. Dead Bug — 3 sets × 6 per side | Rest 60 sec**
+Lower back glued to the floor for every single rep. Breathe steadily — do not hold your breath.
+[NASM Proper Form](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w)
+
+**7. Forearm Plank — 3 sets × 20–30 sec | Rest 60 sec**
+Elbows under shoulders. Body in a straight line — no sag, no pike. Squeeze glutes. Breathe steadily.
+[Forearm Plank Tutorial](https://www.youtube.com/watch?v=BjGVnfGk6j8) · [How to Do Planks Correctly](https://www.youtube.com/watch?v=6pyUmE_ho-g)
+
+---
+
+**COOLDOWN — 5 min**
+
+**Supine Figure-4 Stretch — 60 sec per side**
+Lie on back. Cross one ankle over the opposite knee. Gently pull the uncrossed leg toward your chest.
+[Ask Doctor Jo](https://www.youtube.com/watch?v=-g0nuyTHMrI) · [Supine Piriformis Stretch](https://www.youtube.com/watch?v=xVq2-g_leTI)
+
+**Child's Pose — 60 sec**
+Sit back toward your heels, arms stretched forward on the floor. Breathe slowly.
+[Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Proper Form](https://www.youtube.com/watch?v=_ZX_zTOBgp8)
+
+**Diaphragmatic Breathing — 2 min**
+Same as warmup. Finish every session with 2 minutes of controlled breathing.
+[Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4)
 
 ---
 
 #### DAY 2 — Upper Foundation + Scapular Control + Core
 
-**Warmup (10 min):**
-1. Thoracic Rotation (quadruped) — 10 reps per side
-2. Wall Slide — 10 reps slow
-3. Band Pull Apart Substitute (clasp hands, pull apart isometrically) — 10 reps
-4. Prone Y-T-W — 5 reps each position
-5. Neck retraction (chin tucks) — 10 reps
+> No equipment needed. Requires a wall and a doorway.
 
-**Main Work:**
+**WARMUP — 10 min**
 
-| # | Exercise | Sets | Reps/Time | Rest |
-|---|---|---|---|---|
-| 1 | Prone Y-T-W | 3 | 10 each | 60 sec |
-| 2 | Wall Push-Up | 3 | 12 | 60 sec |
-| 3 | Incline Push-Up (hands on surface) | 3 | 8–10 | 60 sec |
-| 4 | Scapular Wall Slide | 3 | 10 | 60 sec |
-| 5 | Superman Hold | 3 | 10 reps / 3 sec hold | 60 sec |
-| 6 | Dead Bug | 3 | 6 per side | 60 sec |
-| 7 | Side Plank (Knee Down) | 3 | 20 sec per side | 60 sec |
+**1. Thoracic Rotation (Quadruped) — 10 reps per side**
+On hands and knees. Place one hand behind your head. Rotate that elbow up toward the ceiling — lower back stays still, only the mid-back rotates.
+[Ask Doctor Jo](https://www.youtube.com/watch?v=snzLuyYgbVI) · [HNL Movement Tutorial](https://www.youtube.com/watch?v=mGtD0v5uOiQ)
 
-**Cooldown (5 min):**
-- Doorway chest stretch × 60 sec
-- Thread-the-needle × 60 sec per side
-- Child's Pose × 60 sec
+**2. Scapular Wall Slide — 10 reps slow**
+Stand with back and forearms against a wall. Slide arms overhead without losing contact with the wall.
+[Easy Fix for Rounded Shoulders](https://www.youtube.com/watch?v=tWDGEyMWv10) · [Beginner No Equipment](https://www.youtube.com/watch?v=BiREOSisYWU)
+
+**3. Isometric Pull Apart — 10 reps**
+Clasp hands in front of you and pull them apart as hard as possible without releasing. Hold 3 sec per rep. No band needed.
+
+**4. Prone Y-T-W — 5 reps each position**
+Lie face down. Lift arms into Y shape (thumbs up), then T (out to sides), then W (elbows bent). Squeeze shoulder blades together on each lift.
+[Scapular Retraction Exercise](https://www.youtube.com/watch?v=CFt3WjCBbpc) · [Scapular Strength & Shoulder Stability](https://www.youtube.com/watch?v=SSy4XHJHIvw)
+
+**5. Chin Tucks — 10 reps**
+Sitting or standing. Pull your head straight back — make a gentle double chin. Hold 3 sec. Do not tilt up or down.
+[Fix Forward Head Position](https://www.youtube.com/watch?v=gIBoxQ6AlS0) · [Physical Therapist Explains](https://www.youtube.com/watch?v=ekJzJTnd43s)
 
 ---
 
-**VIDEO REFERENCES — Day 2**
+**MAIN WORK**
 
-| Exercise | Watch |
-|---|---|
-| Thoracic Rotation (Quadruped) | [Ask Doctor Jo](https://www.youtube.com/watch?v=snzLuyYgbVI) · [HNL Movement Tutorial](https://www.youtube.com/watch?v=mGtD0v5uOiQ) |
-| Wall Slide (Scapular) | [Easy Fix for Rounded Shoulders](https://www.youtube.com/watch?v=tWDGEyMWv10) · [Beginner No Equipment](https://www.youtube.com/watch?v=BiREOSisYWU) |
-| Chin Tucks | [Fix Forward Head Position](https://www.youtube.com/watch?v=gIBoxQ6AlS0) · [Physical Therapist Explains](https://www.youtube.com/watch?v=ekJzJTnd43s) |
-| Prone Y-T-W | [Scapular Retraction Exercise](https://www.youtube.com/watch?v=CFt3WjCBbpc) · [Scapular Strength & Shoulder Stability](https://www.youtube.com/watch?v=SSy4XHJHIvw) |
-| Wall Push-Up | [Serratus Anterior & Scapular Stability](https://www.youtube.com/watch?v=ILNQF20c1dU) · [Scapular Wall Pushes](https://www.youtube.com/watch?v=MtNsnW7Q7Fo) |
-| Incline Push-Up | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI) |
-| Scapular Wall Slide | [Easy Fix for Rounded Shoulders](https://www.youtube.com/watch?v=tWDGEyMWv10) · [Serratus Wall Slides](https://www.youtube.com/watch?v=1ISlwQDLNHk) |
-| Superman Hold | [Form, Tips & Common Mistakes](https://www.youtube.com/watch?v=g0Kr9Wd3CeQ) · [Posterior Chain Stability](https://www.youtube.com/watch?v=SiWdz7t-6zg) |
-| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
-| Side Plank (Knee Down) | [Modified — 1 Knee Down](https://www.youtube.com/watch?v=p2MufgCIW_4) · [Kneeling Side Plank — Beginner](https://www.youtube.com/watch?v=ribtncUfriU) |
-| Doorway Chest Stretch | [Doorway Stretch Tutorial](https://www.youtube.com/watch?v=B9uY01NoqBg) · [Doorway Pec Stretch](https://www.youtube.com/watch?v=bZ-eaBPOGiM) |
-| Thread-the-Needle | [Thoracic Spine Stretch](https://www.youtube.com/watch?v=MfUx9FCOb1E) · [Increase Your Mobility](https://www.youtube.com/watch?v=z-gJfzsPzlI) |
-| Child's Pose | [Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Proper Form](https://www.youtube.com/watch?v=_ZX_zTOBgp8) |
+**1. Prone Y-T-W — 3 sets × 10 each position | Rest 60 sec**
+Face down on the floor. No equipment. Focus on squeezing the shoulder blades back and down on every rep.
+[Scapular Retraction Exercise](https://www.youtube.com/watch?v=CFt3WjCBbpc) · [Scapular Strength & Shoulder Stability](https://www.youtube.com/watch?v=SSy4XHJHIvw)
+
+**2. Wall Push-Up — 3 sets × 12 reps | Rest 60 sec**
+Hands on wall, elbows at 45°. Body stays rigid. At the end of each push, let the shoulder blades spread apart slightly.
+[Serratus Anterior & Scapular Stability](https://www.youtube.com/watch?v=ILNQF20c1dU) · [Scapular Wall Pushes](https://www.youtube.com/watch?v=MtNsnW7Q7Fo)
+
+**3. Incline Push-Up (hands on chair or counter) — 3 sets × 8–10 reps | Rest 60 sec**
+Hands on any elevated surface — chair, bench, counter. Body in a rigid plank. Elbows at 30–45°. Full range — chest touches the surface.
+[NASM Proper Form & Technique](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI)
+
+**4. Scapular Wall Slide — 3 sets × 10 reps | Rest 60 sec**
+Back and forearms flat on the wall. Slide arms overhead — do not let forearms lose contact with the wall. Shoulders stay depressed (not shrugged).
+[Easy Fix for Rounded Shoulders](https://www.youtube.com/watch?v=tWDGEyMWv10) · [Serratus Wall Slides](https://www.youtube.com/watch?v=1ISlwQDLNHk)
+
+**5. Superman Hold — 3 sets × 10 reps (3 sec hold each) | Rest 60 sec**
+Face down on the floor. Lift arms, chest, and legs simultaneously. Squeeze glutes and pull shoulder blades together. Hold 3 sec, lower with control.
+[Form, Tips & Common Mistakes](https://www.youtube.com/watch?v=g0Kr9Wd3CeQ) · [Posterior Chain Stability](https://www.youtube.com/watch?v=SiWdz7t-6zg)
+
+**6. Dead Bug — 3 sets × 6 per side | Rest 60 sec**
+Lower back pressed into the floor throughout. Breathe steadily.
+[NASM Proper Form](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w)
+
+**7. Side Plank (Knee Down) — 3 sets × 20 sec per side | Rest 60 sec**
+Bottom knee bent on floor, top leg straight. Lift hips — body forms a straight line. Do NOT let the hip sag.
+[Modified — 1 Knee Down](https://www.youtube.com/watch?v=p2MufgCIW_4) · [Kneeling Side Plank — Beginner](https://www.youtube.com/watch?v=ribtncUfriU)
+
+---
+
+**COOLDOWN — 5 min**
+
+**Doorway Chest Stretch — 60 sec**
+Stand in any doorway. Arms in goalpost position. Lean gently forward until you feel a chest stretch. Hold still — do not bounce.
+[Doorway Stretch Tutorial](https://www.youtube.com/watch?v=B9uY01NoqBg) · [Doorway Pec Stretch](https://www.youtube.com/watch?v=bZ-eaBPOGiM)
+
+**Thread-the-Needle — 60 sec per side**
+On hands and knees. Slide one arm under your body along the floor, rotating your thoracic spine. Let the shoulder drop to the floor.
+[Thoracic Spine Stretch](https://www.youtube.com/watch?v=MfUx9FCOb1E) · [Increase Your Mobility](https://www.youtube.com/watch?v=z-gJfzsPzlI)
+
+**Child's Pose — 60 sec**
+Sit back toward heels, arms forward on the floor. Breathe slowly.
+[Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Proper Form](https://www.youtube.com/watch?v=_ZX_zTOBgp8)
 
 ---
 
 #### DAY 3 — Active Recovery + Mobility
 
-**Full Session (30–40 min):**
+> No equipment needed. Floor space and a doorway.
 
-| Order | Movement | Duration |
-|---|---|---|
-| 1 | Diaphragmatic breathing | 3 min |
-| 2 | Cat-Cow | 2 min |
-| 3 | Child's Pose to Cobra | 2 min |
-| 4 | 90/90 Hip Switches | 5 min |
-| 5 | World's Greatest Stretch | 5 min (both sides) |
-| 6 | Couch Stretch (Hip Flexor) | 2 min per side |
-| 7 | Thoracic Rotation (quadruped) | 3 min |
-| 8 | Doorway Stretch | 2 min |
-| 9 | Supine Glute Stretch | 2 min per side |
-| 10 | Walking (easy pace) | 10 min optional |
+**Full Session — 30–40 min**
 
----
+Move slowly through each item. This is not a workout — it is active recovery. There is no target intensity. The goal is circulation, tissue lengthening, and parasympathetic recovery.
 
-**VIDEO REFERENCES — Day 3**
+**1. Diaphragmatic Breathing — 3 min**
+Lie on your back. Belly rises, chest stays still. 4 sec in, 4 sec out.
+[Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4) · [Beginners Physio Guide](https://www.youtube.com/watch?v=9jpchJcKivk)
 
-| Exercise | Watch |
-|---|---|
-| Diaphragmatic Breathing | [Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4) · [Beginners Physio Guide](https://www.youtube.com/watch?v=9jpchJcKivk) |
-| Cat-Cow | [Proper Form Tutorial for Spinal Mobility](https://www.youtube.com/watch?v=xyNwxiuERXc) |
-| Child's Pose to Cobra | [Extended Child's Pose — Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Child's Pose](https://www.youtube.com/watch?v=_ZX_zTOBgp8) |
-| 90/90 Hip Switches | [Step-by-Step Tutorial](https://www.youtube.com/watch?v=HUZimFZJZWU) · [IR/ER Rotation Drill](https://www.youtube.com/watch?v=wnFTIPhNySI) |
-| World's Greatest Stretch | [Squat University](https://www.youtube.com/watch?v=-CiWQ2IvY34) · [Full Tutorial](https://www.youtube.com/watch?v=T6j7BpxeqqU) |
-| Couch Stretch (Hip Flexor) | [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=WKo4APrwfXQ) · [How to Do It](https://www.youtube.com/watch?v=-rsIS-wl-ig) |
-| Thoracic Rotation (Quadruped) | [Ask Doctor Jo](https://www.youtube.com/watch?v=snzLuyYgbVI) · [HNL Movement Tutorial](https://www.youtube.com/watch?v=mGtD0v5uOiQ) |
-| Doorway Stretch | [Doorway Stretch Tutorial](https://www.youtube.com/watch?v=B9uY01NoqBg) · [Doorway Pec Stretch](https://www.youtube.com/watch?v=bZ-eaBPOGiM) |
-| Supine Glute Stretch | [Supine Glute Stretch](https://www.youtube.com/watch?v=NIdTWUbtdGQ) · [Lying Glute Stretch — Nuffield Health](https://www.youtube.com/watch?v=YBV6d5TluFA) |
+**2. Cat-Cow — 2 min**
+On hands and knees. Move slowly — breathe into each position.
+[Proper Form Tutorial for Spinal Mobility](https://www.youtube.com/watch?v=xyNwxiuERXc)
+
+**3. Child's Pose to Cobra — 2 min**
+Flow between child's pose (sit back, arms forward) and cobra (press chest up, hips on floor). Slow and controlled.
+[Extended Child's Pose — Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Child's Pose](https://www.youtube.com/watch?v=_ZX_zTOBgp8)
+
+**4. 90/90 Hip Switches — 5 min**
+Sit on the floor. Both knees at 90°. Rotate hips to switch sides. Sit tall — do not slump.
+[Step-by-Step Tutorial](https://www.youtube.com/watch?v=HUZimFZJZWU) · [IR/ER Rotation Drill](https://www.youtube.com/watch?v=wnFTIPhNySI)
+
+**5. World's Greatest Stretch — 5 min (both sides)**
+Step into a lunge, place same-side hand inside foot, rotate thorax upward. Then rotate forward elbow to the floor. Repeat and switch sides.
+[Squat University](https://www.youtube.com/watch?v=-CiWQ2IvY34) · [Full Tutorial](https://www.youtube.com/watch?v=T6j7BpxeqqU)
+
+**6. Couch Stretch (Hip Flexor) — 2 min per side**
+Kneel with one shin against the wall (or sofa back), front foot forward. Squeeze the glute of the rear leg. You should feel a strong anterior hip stretch. Keep the spine neutral.
+[Beginner to Advanced Progressions](https://www.youtube.com/watch?v=WKo4APrwfXQ) · [How to Do It](https://www.youtube.com/watch?v=-rsIS-wl-ig)
+
+**7. Thoracic Rotation (Quadruped) — 3 min**
+On hands and knees. Hand behind head. Rotate elbow to the sky — only the mid-back moves.
+[Ask Doctor Jo](https://www.youtube.com/watch?v=snzLuyYgbVI) · [HNL Movement Tutorial](https://www.youtube.com/watch?v=mGtD0v5uOiQ)
+
+**8. Doorway Chest Stretch — 2 min**
+Arms in goalpost position in a doorway. Lean gently forward. Hold and breathe.
+[Doorway Stretch Tutorial](https://www.youtube.com/watch?v=B9uY01NoqBg) · [Doorway Pec Stretch](https://www.youtube.com/watch?v=bZ-eaBPOGiM)
+
+**9. Supine Glute Stretch — 2 min per side**
+Lie on back. Cross one ankle over the opposite knee. Gently pull the uncrossed leg toward your chest.
+[Supine Glute Stretch](https://www.youtube.com/watch?v=NIdTWUbtdGQ) · [Lying Glute Stretch — Nuffield Health](https://www.youtube.com/watch?v=YBV6d5TluFA)
+
+**10. Easy Walk — 10 min (optional)**
+Low-intensity. Fresh air if possible. No pace target.
 
 ---
 
 #### DAY 4 — Full Body Integration + Core Endurance
 
-**Warmup (10 min):** Same as Day 1 warmup.
+> Minimal equipment. The inverted row uses a sturdy household table — nothing else needed.
 
-**Main Work:**
-
-| # | Exercise | Sets | Reps/Time | Rest |
-|---|---|---|---|---|
-| 1 | Glute Bridge (Single Leg, supported) | 3 | 10 per side | 60 sec |
-| 2 | Push-Up (Knee or Incline) | 3 | 10–12 | 60 sec |
-| 3 | Bodyweight Squat | 3 | 12 | 60 sec |
-| 4 | Inverted Row (table or low bar) | 3 | 8–10 | 60 sec |
-| 5 | Reverse Lunge | 3 | 8 per side | 60 sec |
-| 6 | Dead Bug | 3 | 8 per side | 60 sec |
-| 7 | Plank (Forearm, quality) | 3 | 25–35 sec | 60 sec |
-| 8 | Side Plank | 3 | 20 sec per side | 60 sec |
-
-**Core Finisher:**
-- Hollow Body Hold — 3 × 15 sec (do not lose lower back contact)
-- Bird Dog — 3 × 8 per side (slow, controlled)
+**WARMUP — 10 min**
+Same sequence as Day 1 warmup: Diaphragmatic Breathing → Cat-Cow → 90/90 Hip Switches → Glute Bridge ISO Hold → Dead Bug Activation.
 
 ---
 
-**VIDEO REFERENCES — Day 4**
+**MAIN WORK**
 
-| Exercise | Watch |
-|---|---|
-| Single Leg Glute Bridge | [Proper Form and Technique](https://www.youtube.com/watch?v=VUl8R0kn6v4) |
-| Push-Up (Knee or Incline) | [NASM Incline Push-Up](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI) |
-| Bodyweight Squat | [Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8) |
-| Inverted Row (Table) | [How to Do Inverted Rows with a Table](https://www.youtube.com/watch?v=6NTruShwwKk) · [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=Fl0UMfdEzsE) |
-| Reverse Lunge | [The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [How to Perform the Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY) |
-| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
-| Forearm Plank | [Forearm Plank Tutorial](https://www.youtube.com/watch?v=BjGVnfGk6j8) · [How to Do Planks Correctly](https://www.youtube.com/watch?v=6pyUmE_ho-g) |
-| Side Plank | [Modified — 1 Knee Down](https://www.youtube.com/watch?v=p2MufgCIW_4) · [Full Side Plank Progression](https://www.youtube.com/watch?v=Ujf5ELfqI7o) |
-| Hollow Body Hold | [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=HAfUt2Cco74) · [Proper Form Tutorial](https://www.youtube.com/watch?v=0yPin8hSc8o) |
-| Bird Dog | [Core Stability & Low Back Pain Relief](https://www.youtube.com/watch?v=I-tJlJVwwZg) · [Spine Stability Tutorial](https://www.youtube.com/watch?v=lKH7e4g0yWA) |
+**1. Single Leg Glute Bridge — 3 sets × 10 per side | Rest 60 sec**
+Bodyweight only. Same as the bilateral bridge but one foot stays off the floor. Keep the pelvis level — do NOT let it drop to the unloaded side.
+[Proper Form and Technique](https://www.youtube.com/watch?v=VUl8R0kn6v4)
+
+**2. Push-Up (Knee or Incline) — 3 sets × 10–12 reps | Rest 60 sec**
+Choose whichever version you can do with full control. Knee push-up on the floor, or hands on a chair. Elbows at 45°. Full range — chest touches surface.
+[NASM Incline Push-Up](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI)
+
+**3. Bodyweight Squat — 3 sets × 12 reps | Rest 60 sec**
+Feet hip-width, toes slightly out. Sit back and down. Chest stays proud.
+[Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8)
+
+**4. Inverted Row (using a sturdy table) — 3 sets × 8–10 reps | Rest 60 sec**
+Lie under a sturdy table. Grip the edge, shoulder-width. Body forms a rigid plank — do not pike. Pull chest to the table, squeeze shoulder blades together. Lower with control. The table is the only item used.
+[How to Do Inverted Rows with a Table](https://www.youtube.com/watch?v=6NTruShwwKk) · [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=Fl0UMfdEzsE)
+
+**5. Reverse Lunge — 3 sets × 8 per side | Rest 60 sec**
+Step back, lower rear knee toward floor. Torso stays upright. Drive through front heel to return.
+[The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY)
+
+**6. Dead Bug — 3 sets × 8 per side | Rest 60 sec**
+Lower back pressed into floor throughout every rep. No breath-holding.
+[NASM Proper Form](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w)
+
+**7. Forearm Plank — 3 sets × 25–35 sec | Rest 60 sec**
+Squeeze glutes, tuck pelvis slightly, breathe steadily. No sag, no pike.
+[Forearm Plank Tutorial](https://www.youtube.com/watch?v=BjGVnfGk6j8) · [How to Do Planks Correctly](https://www.youtube.com/watch?v=6pyUmE_ho-g)
+
+**8. Side Plank — 3 sets × 20 sec per side | Rest 60 sec**
+Use the knee-down version if needed. Hip does not drop. Body in a straight line.
+[Modified — 1 Knee Down](https://www.youtube.com/watch?v=p2MufgCIW_4) · [Full Side Plank Progression](https://www.youtube.com/watch?v=Ujf5ELfqI7o)
+
+---
+
+**CORE FINISHER**
+
+**Hollow Body Hold — 3 × 15 sec**
+Press lower back INTO the floor. Arms overhead, legs extended. Do not let the lower back peel off the floor — that is the only rule.
+[Beginner to Advanced Progressions](https://www.youtube.com/watch?v=HAfUt2Cco74) · [Proper Form Tutorial](https://www.youtube.com/watch?v=0yPin8hSc8o)
+
+**Bird Dog — 3 × 8 per side (slow, 2 sec pause at top)**
+Quadruped. Extend opposite arm and leg — hips stay square, spine stays neutral. No rushing.
+[Core Stability & Low Back Pain Relief](https://www.youtube.com/watch?v=I-tJlJVwwZg) · [Spine Stability Tutorial](https://www.youtube.com/watch?v=lKH7e4g0yWA)
 
 ---
 
 #### DAY 5 — Conditioning + Movement Flow
 
-**Structure:** Low-intensity circuit format. Not for maximum effort — for movement quality under mild fatigue.
+> No equipment needed. Floor space only.
 
-**Warmup (5 min):** Light joint rotations, arm circles, leg swings, bodyweight squats.
+**Structure:** Low-intensity circuit. Not maximum effort — movement quality under mild fatigue. If form breaks down, stop and rest. Do not push through bad reps.
 
-**Circuit (3 rounds — 30 sec work / 30 sec rest):**
-
-| Station | Movement |
-|---|---|
-| 1 | Bodyweight Squat |
-| 2 | Incline Push-Up |
-| 3 | Reverse Lunge (alternating) |
-| 4 | Glute Bridge |
-| 5 | Mountain Climber (SLOW — focus on core) |
-| 6 | Superman Hold |
-| 7 | Step-Out to Lateral Lunge |
-| 8 | Dead Bug |
-
-**Rest 2 min between rounds.**
-
-**Cooldown (10 min):** Full mobility flow from Day 3.
+**WARMUP — 5 min**
+Light joint rotations, arm circles, leg swings, 10 bodyweight squats. Just get blood moving.
 
 ---
 
-**VIDEO REFERENCES — Day 5**
+**CIRCUIT — 3 rounds | 30 sec work / 30 sec rest | Rest 2 min between rounds**
 
-| Exercise | Watch |
-|---|---|
-| Bodyweight Squat | [Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8) |
-| Incline Push-Up | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI) |
-| Reverse Lunge | [The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [How to Perform the Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY) |
-| Glute Bridge | [How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo) |
-| Mountain Climber (Slow) | [Excellent Core Activation Exercise](https://www.youtube.com/watch?v=FHq2eMocsBI) · [MedBridge Slow Mountain Climber](https://www.youtube.com/watch?v=rte-AzwLcUw) |
-| Superman Hold | [Form, Tips & Common Mistakes](https://www.youtube.com/watch?v=g0Kr9Wd3CeQ) · [Posterior Chain Stability](https://www.youtube.com/watch?v=SiWdz7t-6zg) |
-| Step-Out to Lateral Lunge | [Lateral Lunge Body Weight Exercise](https://www.youtube.com/watch?v=sGZn1_WK6gc) · [Alternating Lateral Lunge Step Out](https://www.youtube.com/watch?v=PVEv5ollI_k) |
-| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
+**Station 1 — Bodyweight Squat**
+Sit back and down, chest proud, knees track over toes.
+[Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8)
+
+**Station 2 — Incline Push-Up (hands on chair)**
+Body rigid, elbows at 45°, full range of motion.
+[NASM Proper Form & Technique](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI)
+
+**Station 3 — Reverse Lunge (alternating)**
+Step back, lower rear knee, return. Torso stays tall. Alternate sides.
+[The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY)
+
+**Station 4 — Glute Bridge (bodyweight)**
+Lie on back, feet flat, drive through heels. Squeeze glutes at the top. No equipment.
+[How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo)
+
+**Station 5 — Mountain Climber (SLOW — focus on core)**
+Plank position. Bring one knee toward chest slowly. Lower it. Switch. Core stays braced — hips do not bounce.
+[Excellent Core Activation Exercise](https://www.youtube.com/watch?v=FHq2eMocsBI) · [MedBridge Slow Mountain Climber](https://www.youtube.com/watch?v=rte-AzwLcUw)
+
+**Station 6 — Superman Hold**
+Face down. Lift arms, chest, and legs simultaneously. Hold 2–3 sec. Lower with control.
+[Form, Tips & Common Mistakes](https://www.youtube.com/watch?v=g0Kr9Wd3CeQ) · [Posterior Chain Stability](https://www.youtube.com/watch?v=SiWdz7t-6zg)
+
+**Station 7 — Step-Out to Lateral Lunge**
+Step to the side, sit into that hip, keep the other leg straight. Drive back to standing. Alternate sides.
+[Lateral Lunge Body Weight Exercise](https://www.youtube.com/watch?v=sGZn1_WK6gc) · [Alternating Lateral Lunge Step Out](https://www.youtube.com/watch?v=PVEv5ollI_k)
+
+**Station 8 — Dead Bug**
+On back. Lower back stays pressed into the floor. Slow and controlled — this is the last station, not a sprint.
+[NASM Proper Form](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w)
+
+---
+
+**COOLDOWN — 10 min**
+Full mobility flow from Day 3 (Diaphragmatic Breathing → Cat-Cow → 90/90 → Couch Stretch → Thoracic Rotation → Doorway Stretch → Supine Glute Stretch).
 
 ---
 
