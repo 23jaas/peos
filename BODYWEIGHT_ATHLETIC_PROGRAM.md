@@ -197,6 +197,27 @@ Same as warmup. Finish every session with 2 minutes of controlled breathing.
 
 ---
 
+**ACUPRESSURE MAT INTEGRATION — DAY 1**
+
+| | |
+|---|---|
+| **Use** | Yes |
+| **When** | After cooldown — last 13–15 min of the session |
+| **Duration** | Upper/mid back 8–10 min → Feet 5 min |
+| **Area** | Upper/mid back (primary) · Feet (secondary) |
+
+**Upper/mid back:** Lie down with the mat positioned between your shoulder blades and mid-thoracic spine. Do NOT slide it down to the lumbar region. Arms rest at your sides.
+
+**Feet:** After the back, stand or sit with both feet flat on the mat for 5 minutes.
+
+**Breathing:** 4 sec inhale through nose / 6 sec exhale through mouth. No breath holds. Let the extended exhale do the work.
+
+**Purpose:** Nervous system downregulation after posterior chain activation. The thoracic placement reinforces extension awareness built during the session. Foot stimulation provides sensory grounding after the standing leg work (squats, lunges, RDLs).
+
+> Caution: Keep the mat on the thoracic spine only. If tingling or numbness occurs down the arms, shift the mat slightly upward.
+
+---
+
 #### DAY 2 — Upper Foundation + Scapular Control + Core
 
 > No equipment needed. Requires a wall and a doorway.
@@ -272,6 +293,25 @@ Sit back toward heels, arms forward on the floor. Breathe slowly.
 
 ---
 
+**ACUPRESSURE MAT INTEGRATION — DAY 2**
+
+| | |
+|---|---|
+| **Use** | Yes — best upper-back mat day of the week |
+| **When** | After cooldown |
+| **Duration** | 12–15 min |
+| **Area** | Upper/mid back |
+
+Position the mat between your shoulder blades (thoracic spine only). After a full session dedicated to scapular control and shoulder rounding correction, lying on the mat creates direct sensory awareness of the exact postural territory you've been training.
+
+**Breathing:** Continue the slow diaphragmatic breathing from the cooldown. 4 sec in, 6 sec out. No rigid structure needed — just keep the exhale slightly longer than the inhale.
+
+**Purpose:** Reinforces thoracic and scapular body awareness post-session. Supports the transition from active training to parasympathetic recovery. The sensory stimulation here is directly relevant to the shoulder-rounding correction this programme is built around — use it as an awareness practice, not just a rest.
+
+> Caution: If you feel tingling down either arm, shift the mat slightly upward. The scapular muscles may be more fatigued than usual after this session — the area can be more sensitive.
+
+---
+
 #### DAY 3 — Active Recovery + Mobility
 
 > No equipment needed. Floor space and a doorway.
@@ -318,6 +358,29 @@ Lie on back. Cross one ankle over the opposite knee. Gently pull the uncrossed l
 
 **10. Easy Walk — 10 min (optional)**
 Low-intensity. Fresh air if possible. No pace target.
+
+---
+
+**ACUPRESSURE MAT INTEGRATION — DAY 3**
+
+| | |
+|---|---|
+| **Use** | Yes — primary mat day of the week |
+| **When** | During or at the end of the session |
+| **Duration** | 15–20 min total |
+| **Area** | Feet → Glutes/hips → Upper/mid back |
+
+Day 3 is the best day for extended mat use. There is no performance demand — only recovery. Work through the three areas in sequence.
+
+**Feet — 5–8 min:** Stand or sit with both feet flat on the mat.
+**Glutes/hips — 5–8 min:** Sit or lie with the mat positioned under the gluteal region. Do NOT position it under the lumbar spine.
+**Upper/mid back — 5 min:** Finish with the thoracic placement.
+
+**Breathing:** No structure required. Natural, slow, relaxed breathing throughout. This is the day where the mat functions purely as a body-awareness and downregulation tool — not a performance tool.
+
+**Purpose:** Full parasympathetic recovery support. Sensory attention across three major tension zones. Anti-sedentary stimulation on an otherwise low-intensity day.
+
+> Caution: Do not force duration. If any area feels irritated or overly sensitive, skip it and move to the next.
 
 ---
 
@@ -378,6 +441,28 @@ Quadruped. Extend opposite arm and leg — hips stay square, spine stays neutral
 
 ---
 
+**ACUPRESSURE MAT INTEGRATION — DAY 4**
+
+| | |
+|---|---|
+| **Use** | Yes |
+| **When** | After cooldown |
+| **Duration** | 10 min total |
+| **Area** | Feet → Calves |
+
+Skip the back today. After the full-body session with heavy unilateral leg work (single-leg bridges, reverse lunges, squats, inverted rows), the lower limbs carry the most accumulated demand. Use foot and calf placement instead.
+
+**Feet — 5 min:** Standing or seated with both feet flat on the mat.
+**Calves — 5 min:** Sit in a chair or on the floor. Lay the mat flat and rest both calves on top. The pressure is significantly lighter than the back — adjust by raising or lowering how much weight you allow through your legs.
+
+**Breathing:** Slow and unstructured. Use this as a mental decompression from the most physically demanding session of the week.
+
+**Purpose:** Lower-limb sensory recovery after extensive unilateral leg loading. Supports perceived tension reduction in the feet and calves without adding any physical demand.
+
+> Caution: Calves can be more sensitive than the back. Use a seated position so you can modulate pressure and move off quickly if needed.
+
+---
+
 #### DAY 5 — Conditioning + Movement Flow
 
 > No equipment needed. Floor space only.
@@ -430,10 +515,68 @@ Full mobility flow from Day 3 (Diaphragmatic Breathing → Cat-Cow → 90/90 →
 
 ---
 
+**ACUPRESSURE MAT INTEGRATION — DAY 5**
+
+| | |
+|---|---|
+| **Use** | Yes |
+| **When** | At least 5 minutes after finishing the session |
+| **Duration** | 13–15 min total |
+| **Area** | Feet → Upper/mid back |
+
+After circuit conditioning, the body needs a clear signal to transition from sympathetic (active) to parasympathetic (recovery) state. The mat supports this transition. Do not lie on it while still breathing hard — wait the 5 minutes.
+
+**Feet — 5 min:** Grounding sensory input immediately post-circuit.
+**Upper/mid back — 8–10 min:** Thoracic position. Focus on progressively slowing the breath.
+
+**Breathing:** Begin with 4 sec in / 6 sec out to actively support downregulation. By minute 5 on the back, breathing should feel natural and slow without effort.
+
+**Purpose:** Post-conditioning nervous system downregulation. Supports the transition out of circuit intensity. The thoracic placement reinforces body awareness after a session where maintaining form under fatigue was the core challenge.
+
+> Caution: Do not use if any circuit movement caused sharp lower back pain. If breathing is still elevated after 5 minutes, wait longer before lying on the mat.
+
+---
+
 #### DAYS 6 & 7 — Recovery
 
 **Day 6:** 30 min mobility session (same as Day 3 template). Optional: 20 min easy walk.
 **Day 7:** Complete rest. Sleep 8+ hours. Hydrate well.
+
+---
+
+**ACUPRESSURE MAT INTEGRATION — DAY 6**
+
+| | |
+|---|---|
+| **Use** | Yes — integrate into session |
+| **When** | During or at the end of the mobility session |
+| **Duration** | 15–20 min total |
+| **Area** | Upper/mid back (10 min) → Glutes/hips (5–8 min) |
+
+Day 6 is a full recovery day. The mat fits naturally here as a body-awareness and downregulation tool with no competing demands. Use it as a structured recovery ritual, not an afterthought.
+
+**Breathing:** Use this time to practise the diaphragmatic breathing from the programme. 4 sec in, 6 sec out. No forcing — just consistency.
+
+**Purpose:** Full parasympathetic recovery support after a training week. Body-scan awareness across the thoracic and hip regions. Consolidates the postural and tension awareness built across Days 1–5.
+
+---
+
+**ACUPRESSURE MAT INTEGRATION — DAY 7**
+
+| | |
+|---|---|
+| **Use** | Optional — evening only |
+| **When** | 30–60 min before sleep |
+| **Duration** | 10–15 min |
+| **Area** | Upper/mid back OR feet (not both — keep it minimal) |
+
+Day 7 is complete rest. Mat use here is optional and should be low-effort. If you use it, treat it as a pre-sleep downregulation ritual, not a recovery protocol.
+
+**Breathing:** No structure needed. Eyes closed, natural breathing.
+
+**Purpose:** Pre-sleep nervous system downregulation. The sensory stimulation creates a relaxation response that may support sleep onset. Use in a dim, quiet environment.
+
+> Caution: Do not fall asleep on the mat. Set a timer if needed.
 
 ---
 
@@ -499,6 +642,84 @@ Full mobility flow from Day 3 (Diaphragmatic Breathing → Cat-Cow → 90/90 →
 - Handstand wall practice
 - Sprint intervals (40m efforts)
 - Jump landing mechanics
+
+---
+
+## SECTION 3B — ACUPRESSURE MAT SYSTEM
+
+> The mat is a sensory stimulation tool. It creates a relaxation response in most users after the initial 60–90 sec discomfort phase. It does not treat injury, accelerate tissue repair, or detox anything. What it reliably does: reduce perceived tension, support body awareness, and help the nervous system transition from active to recovery state. Treat it accordingly — a useful tool, used at the right times, for the right reasons.
+
+---
+
+### Best Mat Placements for This User
+
+**1. Upper/mid back — PRIMARY (use most frequently)**
+Position the mat between your shoulder blades and mid-thoracic spine. This is the highest-value placement for you specifically — it creates sensory awareness in the region most affected by shoulder rounding and thoracic kyphosis. Lying in thoracic extension on the mat is not just recovery; it is posture reinforcement. Use after every upper-body or full-body session. Keep the mat away from the lumbar region.
+
+**2. Feet — SECONDARY (use frequently)**
+Stand or sit with both feet flat on the mat. High sensory density — shorter durations needed. After any session with significant lower limb loading (squats, lunges, RDLs), foot stimulation supports perceived recovery and provides a simple grounding ritual. Start with 5 minutes; feet are more sensitive than the back.
+
+**3. Glutes/hips — TERTIARY (use on recovery days)**
+Sit or lie with the mat under the gluteal region. Do NOT position it under the lumbar spine. The hip and glute area accumulates tension from all the posterior chain work in this programme. Recovery-day use here supports body awareness in the most-trained region.
+
+**4. Calves — OCCASIONAL (use after heavy leg days)**
+Sit in a chair or on the floor with calves resting on the mat. The pressure is much lighter than the back — this is a low-intensity placement. Use after Day 1 or Day 4 when the lower limbs have been significantly loaded.
+
+**5. Hands/forearms — RARELY NEEDED**
+Not a priority in this programme. Only relevant if desk work creates chronic tension in the hands and forearms.
+
+---
+
+### When NOT to Use the Mat
+
+- **On the lower lumbar region** — given your anterior pelvic tilt and lower-back sensitivity, direct mat pressure on the lumbar spine is not appropriate at this stage
+- **On broken skin, wounds, rashes, or sunburn**
+- **During the workout** — the mat is a recovery tool, not a training aid
+- **During acute DOMS** — if an area is acutely sore, wait until the soreness has passed before applying mat pressure there
+- **If a session caused sharp or radiating back pain** — skip mat use that day entirely
+- **When the body is very cold** — vasoconstriction makes the stimulation significantly more intense and less comfortable
+- **If you feel worse after use, not better** — this is a clear stop signal, not a push-through situation
+
+---
+
+### Beginner Progression for Mat Tolerance
+
+Most new users find the first 60–90 seconds uncomfortable. This is normal. The sensation typically transitions to warmth and relaxation. If it does not soften within 2 minutes, you are likely positioned incorrectly, pressing too hard, or on a sensitive area.
+
+**Week 1 — Introduction**
+Wear a thin cotton t-shirt. Upper/mid back only. 3–5 minutes. Breathe slowly. Goal: tolerate it and notice the transition from discomfort to warmth.
+
+**Week 2 — Bare Skin**
+Remove the t-shirt. Same position. 5–8 minutes. Extend the exhale slightly. Goal: comfortable on bare skin for 5+ minutes without distraction.
+
+**Week 3 — Area Expansion**
+Add feet: 5 minutes standing or seated. Back: 8–10 minutes bare skin. Begin using slow breathing deliberately while on the mat. Goal: comfortable in two areas, mat becoming a consistent practice.
+
+**Week 4 — Full Protocol**
+Comfortable with any placement in the programme. Can follow the Evening Recovery Protocol. Mat is now a standard part of the recovery system.
+
+---
+
+### Evening Recovery Protocol
+
+**Use:** 3–5 nights per week | **Timing:** 30–60 min before sleep | **Total time:** 20–25 min
+
+**Step 1 — Feet (5 min)**
+Stand or sit with both feet flat on the mat. No phone. No screen. This is a sensory warm-up and a deliberate transition into recovery mode.
+
+**Step 2 — Set up (1 min)**
+Lay the mat on the floor. Dim the lights if possible.
+
+**Step 3 — Upper/mid back (12–15 min)**
+Lie down with the mat under your thoracic spine — shoulder blades to mid-back. Arms rest at your sides or crossed gently on your chest. Eyes closed.
+
+Breathing: 4 sec inhale / 6 sec exhale. No holding. The extended exhale is what drives the relaxation response — do not shorten it. After the first 60–90 seconds, the initial sensation should soften. If it does not soften within 2 minutes, adjust position.
+
+**Step 4 — Off the mat (2 min)**
+Slide off and lie flat on the floor without the mat. Notice the contrast. Breathe normally. Do not rush to stand.
+
+**Step 5 — Hydrate, then sleep**
+Drink water. The session is done.
 
 ---
 
