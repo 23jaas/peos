@@ -149,6 +149,25 @@ The system has **5 phases**, each lasting approximately 4 weeks. You do NOT adva
 
 ---
 
+**VIDEO REFERENCES — Day 1**
+
+| Exercise | Watch |
+|---|---|
+| Diaphragmatic Breathing | [Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4) · [Beginners Physio Guide](https://www.youtube.com/watch?v=9jpchJcKivk) |
+| Cat-Cow | [Proper Form Tutorial for Spinal Mobility](https://www.youtube.com/watch?v=xyNwxiuERXc) |
+| 90/90 Hip Switches | [Step-by-Step Tutorial](https://www.youtube.com/watch?v=HUZimFZJZWU) · [IR/ER Rotation Drill](https://www.youtube.com/watch?v=wnFTIPhNySI) |
+| Glute Bridge | [How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo) · [The Correct Way](https://www.youtube.com/watch?v=Q_Bpj91Yiis) |
+| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
+| Bodyweight Squat | [Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8) |
+| Reverse Lunge | [The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [How to Perform the Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY) |
+| Single Leg RDL | [Best Single-Leg RDL Tutorial](https://www.youtube.com/watch?v=Zfr6wizR8rs) · [Bodyweight Version](https://www.youtube.com/watch?v=gz9l8UA_KXs) |
+| Clamshell | [Side Lying Hip Abduction](https://www.youtube.com/watch?v=46l1bE9LlqM) · [Fix Your Clamshell Form](https://www.youtube.com/shorts/qJhOH9-2yDw) |
+| Forearm Plank | [Forearm Plank Tutorial](https://www.youtube.com/watch?v=BjGVnfGk6j8) · [How to Do Planks Correctly](https://www.youtube.com/watch?v=6pyUmE_ho-g) |
+| Supine Figure-4 Stretch | [Ask Doctor Jo](https://www.youtube.com/watch?v=-g0nuyTHMrI) · [Supine Piriformis Stretch](https://www.youtube.com/watch?v=xVq2-g_leTI) |
+| Child's Pose | [Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Proper Form](https://www.youtube.com/watch?v=_ZX_zTOBgp8) |
+
+---
+
 #### DAY 2 — Upper Foundation + Scapular Control + Core
 
 **Warmup (10 min):**
@@ -177,6 +196,26 @@ The system has **5 phases**, each lasting approximately 4 weeks. You do NOT adva
 
 ---
 
+**VIDEO REFERENCES — Day 2**
+
+| Exercise | Watch |
+|---|---|
+| Thoracic Rotation (Quadruped) | [Ask Doctor Jo](https://www.youtube.com/watch?v=snzLuyYgbVI) · [HNL Movement Tutorial](https://www.youtube.com/watch?v=mGtD0v5uOiQ) |
+| Wall Slide (Scapular) | [Easy Fix for Rounded Shoulders](https://www.youtube.com/watch?v=tWDGEyMWv10) · [Beginner No Equipment](https://www.youtube.com/watch?v=BiREOSisYWU) |
+| Chin Tucks | [Fix Forward Head Position](https://www.youtube.com/watch?v=gIBoxQ6AlS0) · [Physical Therapist Explains](https://www.youtube.com/watch?v=ekJzJTnd43s) |
+| Prone Y-T-W | [Scapular Retraction Exercise](https://www.youtube.com/watch?v=CFt3WjCBbpc) · [Scapular Strength & Shoulder Stability](https://www.youtube.com/watch?v=SSy4XHJHIvw) |
+| Wall Push-Up | [Serratus Anterior & Scapular Stability](https://www.youtube.com/watch?v=ILNQF20c1dU) · [Scapular Wall Pushes](https://www.youtube.com/watch?v=MtNsnW7Q7Fo) |
+| Incline Push-Up | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI) |
+| Scapular Wall Slide | [Easy Fix for Rounded Shoulders](https://www.youtube.com/watch?v=tWDGEyMWv10) · [Serratus Wall Slides](https://www.youtube.com/watch?v=1ISlwQDLNHk) |
+| Superman Hold | [Form, Tips & Common Mistakes](https://www.youtube.com/watch?v=g0Kr9Wd3CeQ) · [Posterior Chain Stability](https://www.youtube.com/watch?v=SiWdz7t-6zg) |
+| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
+| Side Plank (Knee Down) | [Modified — 1 Knee Down](https://www.youtube.com/watch?v=p2MufgCIW_4) · [Kneeling Side Plank — Beginner](https://www.youtube.com/watch?v=ribtncUfriU) |
+| Doorway Chest Stretch | [Doorway Stretch Tutorial](https://www.youtube.com/watch?v=B9uY01NoqBg) · [Doorway Pec Stretch](https://www.youtube.com/watch?v=bZ-eaBPOGiM) |
+| Thread-the-Needle | [Thoracic Spine Stretch](https://www.youtube.com/watch?v=MfUx9FCOb1E) · [Increase Your Mobility](https://www.youtube.com/watch?v=z-gJfzsPzlI) |
+| Child's Pose | [Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Proper Form](https://www.youtube.com/watch?v=_ZX_zTOBgp8) |
+
+---
+
 #### DAY 3 — Active Recovery + Mobility
 
 **Full Session (30–40 min):**
@@ -193,6 +232,22 @@ The system has **5 phases**, each lasting approximately 4 weeks. You do NOT adva
 | 8 | Doorway Stretch | 2 min |
 | 9 | Supine Glute Stretch | 2 min per side |
 | 10 | Walking (easy pace) | 10 min optional |
+
+---
+
+**VIDEO REFERENCES — Day 3**
+
+| Exercise | Watch |
+|---|---|
+| Diaphragmatic Breathing | [Deep Core Breathing Tutorial](https://www.youtube.com/watch?v=OgCTYXN_Ax4) · [Beginners Physio Guide](https://www.youtube.com/watch?v=9jpchJcKivk) |
+| Cat-Cow | [Proper Form Tutorial for Spinal Mobility](https://www.youtube.com/watch?v=xyNwxiuERXc) |
+| Child's Pose to Cobra | [Extended Child's Pose — Yoga With Adriene](https://www.youtube.com/watch?v=eqVMAPM00DM) · [NASM Child's Pose](https://www.youtube.com/watch?v=_ZX_zTOBgp8) |
+| 90/90 Hip Switches | [Step-by-Step Tutorial](https://www.youtube.com/watch?v=HUZimFZJZWU) · [IR/ER Rotation Drill](https://www.youtube.com/watch?v=wnFTIPhNySI) |
+| World's Greatest Stretch | [Squat University](https://www.youtube.com/watch?v=-CiWQ2IvY34) · [Full Tutorial](https://www.youtube.com/watch?v=T6j7BpxeqqU) |
+| Couch Stretch (Hip Flexor) | [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=WKo4APrwfXQ) · [How to Do It](https://www.youtube.com/watch?v=-rsIS-wl-ig) |
+| Thoracic Rotation (Quadruped) | [Ask Doctor Jo](https://www.youtube.com/watch?v=snzLuyYgbVI) · [HNL Movement Tutorial](https://www.youtube.com/watch?v=mGtD0v5uOiQ) |
+| Doorway Stretch | [Doorway Stretch Tutorial](https://www.youtube.com/watch?v=B9uY01NoqBg) · [Doorway Pec Stretch](https://www.youtube.com/watch?v=bZ-eaBPOGiM) |
+| Supine Glute Stretch | [Supine Glute Stretch](https://www.youtube.com/watch?v=NIdTWUbtdGQ) · [Lying Glute Stretch — Nuffield Health](https://www.youtube.com/watch?v=YBV6d5TluFA) |
 
 ---
 
@@ -219,6 +274,23 @@ The system has **5 phases**, each lasting approximately 4 weeks. You do NOT adva
 
 ---
 
+**VIDEO REFERENCES — Day 4**
+
+| Exercise | Watch |
+|---|---|
+| Single Leg Glute Bridge | [Proper Form and Technique](https://www.youtube.com/watch?v=VUl8R0kn6v4) |
+| Push-Up (Knee or Incline) | [NASM Incline Push-Up](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI) |
+| Bodyweight Squat | [Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8) |
+| Inverted Row (Table) | [How to Do Inverted Rows with a Table](https://www.youtube.com/watch?v=6NTruShwwKk) · [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=Fl0UMfdEzsE) |
+| Reverse Lunge | [The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [How to Perform the Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY) |
+| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
+| Forearm Plank | [Forearm Plank Tutorial](https://www.youtube.com/watch?v=BjGVnfGk6j8) · [How to Do Planks Correctly](https://www.youtube.com/watch?v=6pyUmE_ho-g) |
+| Side Plank | [Modified — 1 Knee Down](https://www.youtube.com/watch?v=p2MufgCIW_4) · [Full Side Plank Progression](https://www.youtube.com/watch?v=Ujf5ELfqI7o) |
+| Hollow Body Hold | [Beginner to Advanced Progressions](https://www.youtube.com/watch?v=HAfUt2Cco74) · [Proper Form Tutorial](https://www.youtube.com/watch?v=0yPin8hSc8o) |
+| Bird Dog | [Core Stability & Low Back Pain Relief](https://www.youtube.com/watch?v=I-tJlJVwwZg) · [Spine Stability Tutorial](https://www.youtube.com/watch?v=lKH7e4g0yWA) |
+
+---
+
 #### DAY 5 — Conditioning + Movement Flow
 
 **Structure:** Low-intensity circuit format. Not for maximum effort — for movement quality under mild fatigue.
@@ -241,6 +313,21 @@ The system has **5 phases**, each lasting approximately 4 weeks. You do NOT adva
 **Rest 2 min between rounds.**
 
 **Cooldown (10 min):** Full mobility flow from Day 3.
+
+---
+
+**VIDEO REFERENCES — Day 5**
+
+| Exercise | Watch |
+|---|---|
+| Bodyweight Squat | [Proper Form and Technique](https://www.youtube.com/watch?v=P-yaD24bUE8) |
+| Incline Push-Up | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [How to Perform / What to Avoid](https://www.youtube.com/watch?v=76TQU7iZlsI) |
+| Reverse Lunge | [The Only Tutorial You'll Need](https://www.youtube.com/watch?v=GcYirgCLhnI) · [How to Perform the Perfect Reverse Lunge](https://www.youtube.com/watch?v=94AXT7D3bKY) |
+| Glute Bridge | [How To Do a Glute Bridge Correctly](https://www.youtube.com/watch?v=nbjJjSa0cKo) |
+| Mountain Climber (Slow) | [Excellent Core Activation Exercise](https://www.youtube.com/watch?v=FHq2eMocsBI) · [MedBridge Slow Mountain Climber](https://www.youtube.com/watch?v=rte-AzwLcUw) |
+| Superman Hold | [Form, Tips & Common Mistakes](https://www.youtube.com/watch?v=g0Kr9Wd3CeQ) · [Posterior Chain Stability](https://www.youtube.com/watch?v=SiWdz7t-6zg) |
+| Step-Out to Lateral Lunge | [Lateral Lunge Body Weight Exercise](https://www.youtube.com/watch?v=sGZn1_WK6gc) · [Alternating Lateral Lunge Step Out](https://www.youtube.com/watch?v=PVEv5ollI_k) |
+| Dead Bug | [NASM Proper Form & Technique](https://www.youtube.com/watch?v=bxn9FBrt4-A) · [Correct Form for Beginners](https://www.youtube.com/watch?v=XcYtWYMz39w) |
 
 ---
 
@@ -1269,5 +1356,5 @@ All video references below are search terms for YouTube. Use these exact phrases
 
 ---
 
-*Programme version 2.0 — Built for athletic reconditioning from the ground up.*
+*Programme version 3.0 — Built for athletic reconditioning from the ground up.*
 *Review and adjust at each 4-week checkpoint based on progression milestones and Section 7B competency tests.*
